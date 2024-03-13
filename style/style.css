@@ -1,0 +1,79 @@
+
+@font-face {
+    font-family: 'montserratblack';
+    src: url('../fonts/montserrat-black-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'montserratbold';
+    src: url('../fonts/montserrat-bold-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'montserratextrabold';
+    src: url('../fonts/montserrat-extrabold-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'montserratmedium';
+    src: url('../fonts/montserrat-medium-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-medium-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'montserratregular';
+    src: url('../fonts/montserrat-regular-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'montserratsemibold';
+    src: url('../fonts/montserrat-semibold-webfont.woff2') format('woff2'),
+         url('../fonts/montserrat-semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'aber_monobold';
+    src: url('../fonts/aber-mono-bold-webfont.woff2') format('woff2'),
+         url('../fonts/aber-mono-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'aber_monolight';
+    src: url('../fonts/aber-mono-light-webfont.woff2') format('woff2'),
+         url('../fonts/aber-mono-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'aber_monoregular';
+    src: url('../fonts/aber-mono-regular-webfont.woff2') format('woff2'),
+         url('../fonts/aber-mono-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+body{
+    height: 100rem;
+    background: linear-gradient(190deg,rgb(85, 75, 68), rgb(13, 14, 48), rgb(14, 13, 16));
+    background-repeat: no-repeat;
+}
