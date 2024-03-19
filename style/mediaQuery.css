@@ -2,7 +2,7 @@
     .card{
         width: 70%;
         /* max-width: 400px; */
-        background: #0c0c0c;
+        background: linear-gradient(190deg, #87ceeb, #4169e1);
         border-radius: 20px;
         margin: 100px auto 0;
         padding: 40px 10px;
@@ -14,7 +14,7 @@
         height: 200px;
         border-radius: 50%;
         border: 1px solid transparent;
-        background: url('../images/mobile-banner.jpg') center/cover;
+        background: url('../images/headshot.jpeg') center/cover;
         background-repeat: no-repeat;
         margin: auto; 
         margin-top: -8rem; 
@@ -93,7 +93,7 @@
     .card{
         width: 60%;
         /* max-width: 600px; */
-        background: #0c0c0c;
+        background: linear-gradient(190deg, #87ceeb, #4169e1);
         border-radius: 20px;
         margin: 100px auto 0;
         padding: 40px 40px;
@@ -109,7 +109,7 @@
         /* height: 250px; */
         border-radius: 20px;
         border: 1px solid transparent;
-        background: url('../images/mobile-banner.jpg') center/cover;
+        background: url('../images/headshot.jpeg') center/cover;
         background-repeat: no-repeat;
     
         margin-left: -90px;
